@@ -1,0 +1,182 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": ""
+  },
+  "basics": {
+    "name": "Apurv Singh",
+    "phone": "2063769988",
+    "location": {
+      "address": "Seattle"
+    },
+    "email": "email.singh.apurv@gmail.com",
+    "website": "apurvsingh.com"
+  },
+  "education": [
+    {
+      "location": "",
+      "area": "Computer Science",
+      "gpa": "8.3",
+      "institution": "Nagpur University",
+      "studyType": "Bachelor of Science",
+      "startDate": "July 2013",
+      "endDate": "May 2017"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Currently working with Prime Videos, working on video encoding pipelines/process.",
+        "Worked with Amazon Appstore/Alexa for Building centralized system to comply Big Data teams with government compliance such as GDPR, COPPA, CCPA and incoming privacy regulations. Implementing solutions to integrate new data stores using configurations for privacy compliance, making the process automated. Worked on building configurable Data ingestion and Processing system using AWS services and big data technologies."
+      ],
+      "company": "Amazon",
+      "position": "Software Development Engineer II",
+      "location": "Seattle",
+      "startDate": "June 2019"
+    },
+    {
+      "highlights": [
+        "Part of Data analytics team which ingests app data and metadata of Amazon app-store over a scalable big data technology stack which serves as a refined input data funnel for ML models."
+      ],
+      "company": "Amazon",
+      "position": "Software Development Engineer",
+      "location": "Bangalore",
+      "startDate": "Aug 2017",
+      "endDate": "June 2019"
+    },
+    {
+      "highlights": [
+        "Worked on various AWS services and was part of Appstore analytic team. Build an abstraction over Elasticsearch providing easy query capability. Gained knowledge about Data-warehousing and have hand-on on various Databases and Deployment tools."
+      ],
+      "company": "Amazon",
+      "position": "Software Development Intern",
+      "location": "Bangalore",
+      "startDate": "Feb 2017",
+      "endDate": "Aug 2017"
+    },
+    {
+      "company": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+      "position": "Research Intern",
+      "website": "",
+      "endDate": "Dec 2016",
+      "highlights": [
+        " Worked on creating Web application to Process satellite images. It includes reading about Image Processing algorithms. "
+      ],
+      "location": "Nagpur",
+      "startDate": "May 2016"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "",
+        "Python",
+        "Node",
+        "React",
+        null,
+        "Spark",
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "Hadoop",
+        "Hive",
+        "Spark",
+        "Redshift"
+      ],
+      "name": "Big Data"
+    },
+    {
+      "keywords": [
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "RDS",
+        "Oracle",
+        "Redshift",
+        "S3",
+        "DynamoDB",
+        "Redis"
+      ],
+      "name": "Storage"
+    },
+    {
+      "keywords": [
+        "React",
+        "Node",
+        "Javascript"
+      ],
+      "name": "Web Tech"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Psy-Physics",
+      "description": "A cross platform game using Physics Engine (Box2d) and Libdgx as a Game engine. Various shapes can be drawn which transforms into virtual objects having mass and inertia. These draw objects are used to make a 2D Ball travel around the obstacles ",
+      "url": "https://github.com/imapurv/Psy-Physics",
+      "keywords": [
+        "Libgdx",
+        "Java"
+      ]
+    },
+    {
+      "keywords": [
+        "Javascript"
+      ],
+      "name": "Browser Image processor",
+      "description": "Project was given by Regional Remote Sensing Center (part of Indian Space Research Organization). This project serves the client with a web application running on browser with many Image processing and Editing abilities. It works on satellite images and apply various Image enhancement algorithm",
+      "url": "https://github.com/kakashibo/WebBrowser-Image-Processing"
+    },
+    {
+      "keywords": [
+        "Android",
+        "Java"
+      ],
+      "name": "Old Books",
+      "description": "An android application which creates a platform for buying and selling of Used books with an Interactive UI and Realtime Messaging feature. Server has been built to store Book Details and User Activities. It also provies bidding for items. It has been deployed on Google Store. ",
+      "url": "https://play.google.com/store/apps/details?id=com.apurv.dell.olbooks"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "ACM International Collegiate Programming Contest (ICPC)",
+      "awarder": "Amritapuri Onsite 2016",
+      "summary": "Selected for Amritapuri Onsite 2016"
+    },
+    {
+      "title": "Codechef Long Challage",
+      "summary": "Global Ranked 108 in September Codechef Long Challage",
+      "awarder": "Global Ranked 108",
+      "date": "Sep 2015"
+    },
+    {
+      "title": "Projet Inter College Competition",
+      "date": "Feb 2016",
+      "awarder": "Runner Up",
+      "summary": "Secured second place in an event hosted by GlobalLogic."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
